@@ -30,7 +30,7 @@
     "@nestjs/swagger": "^4.5.12",
     "bcrypt": "^4.0.1",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.12.2",
+    "class-validator": "^0.14.0",
     "concat-stream": "^2.0.0",
     "cryptr": "^6.0.2",
     "dotenv": "^8.2.0",
